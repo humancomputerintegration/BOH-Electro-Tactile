@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Seeeduino-XIAO)(type Legacy)(uri "/Users/yudaitanaka/Documents/OpenEstim++/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+  (lib (name OpenEstim++-rescue)(type Legacy)(uri ${KIPRJMOD}/OpenEstim++-rescue.lib)(options "")(descr ""))
+)

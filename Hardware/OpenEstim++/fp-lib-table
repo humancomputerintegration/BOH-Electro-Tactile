@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Seeeduino-XIAO)(type KiCad)(uri "/Users/yudaitanaka/Documents/OpenEstim++/Seeeduino XIAO KICAD")(options "")(descr ""))
+  (lib (name NMT0572SC)(type KiCad)(uri ${KIPRJMOD}/NMT0572SC.pretty)(options "")(descr ""))
+)
