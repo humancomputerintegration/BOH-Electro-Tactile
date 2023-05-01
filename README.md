@@ -2,7 +2,7 @@
 
 This is the repository for PCB schematics and Arduino codes used for the "Full-Hand Electro Tactile Feedback without Obstructing Palmar Side of Hand" paper (ACM CHI2023).
 
-For more information, please refer to our paper: http://lab.plopes.org/#BOH-electro-tactile
+For more information, please refer to our paper: http://lab.plopes.org/#boh-electro-tactile
 
 ## notes:
 1.	For PCB, the design originally assumes the use of the Bluetooth Module + Lipo battery but also works with normal Serial + power via Seeeduino XIAO's USB-C. If you go for this tethered option, ensure the battery is not connected, the power switch on the PCB is toggled ON, and the Bluetooth module is removed.
